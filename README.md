@@ -13,4 +13,4 @@ We help teams break complex problems down to their fundamentals and build reliab
 Learn More
 
 For updates, services, and our full story, visit:
-[https://firstprinciple.systems]|https://firstprinciple.systems
+[https://firstprinciple.systems]
